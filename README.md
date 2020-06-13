@@ -1,2 +1,2 @@
 # Diving Competition- Java
- Simple diving competition project written in Java
+# Simple diving competition project written in Java
